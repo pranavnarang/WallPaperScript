@@ -26,5 +26,5 @@ osascript -e "$cmd"
 
 # 5. change wallpaper using:
 # osascript -e ‘tell application “Finder” to set desktop picture to POSIX file “link/to/download.jpg”’
-
+# okay be careful because trying 5. almost forced me to restart my OS
 #6. in the far far future, take image type as user input and load images based on that 
